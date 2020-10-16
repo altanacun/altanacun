@@ -14,17 +14,17 @@
 
 <h1>MY COMPLETED PROJECTS</h1>
 -<h2>FOTO RULET</h2>
-ENG
-_______________________________________________________________________________________________________________
+ENG<br>
+_______________________________________________________________________________________________________________<br>
 Random funny and weird photos. 
 <br>
 https://play.google.com/store/apps/details?id=com.Arutan.FotoRulet<br>
-VIDEO : https://www.youtube.com/watch?v=HIw-k-ci2YI
+VIDEO : https://www.youtube.com/watch?v=HIw-k-ci2YI<br>
 
-_______________________________________________________________________________________________________________
-TUR
-_______________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________<br>
+TUR<br>
+_______________________________________________________________________________________________________________<br>
 Garip ve tuhaf rastgele fotoğraflar.<br>
 https://play.google.com/store/apps/details?id=com.Arutan.FotoRulet<br>
-VIDEO : https://www.youtube.com/watch?v=HIw-k-ci2YI
+VIDEO : https://www.youtube.com/watch?v=HIw-k-ci2YI<br>
 <img src="https://lh3.googleusercontent.com/YOIR5A4-SrU27F3zj8q3N8H8h4W7EN7IsoVF1HEVzpxjnbGrUaUCKdnt7xPL5TBZknk=s180-rw" alt="8BitJumper"  height=200px; width=200px;>
