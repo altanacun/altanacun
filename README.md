@@ -21,7 +21,7 @@ Mobile car parking game including 30 levels and difficulties.
 _______________________________________________________________________________________________________________<br>
 TUR<br>
 _______________________________________________________________________________________________________________<br>
-30 bölüm ve zorluktan oluşan mobil araba park etme oyunu.<br>
+30 bölüm ve zorluktan oluşan mobil araba park etme oyunu.<br><br>
 <img src="https://raw.githubusercontent.com/altanacun/Infinite-Parker/main/icon.png" alt="Infinite Parker"  height=200px; width=200px;><br>
 <h3><a href="https://github.com/altanacun/Infinite-Parker/blob/main/InfiniteParker-APK.rar">DOWNLOAD APK</a></h3><br>
 <h2>CYBERFIELD 2</h2>
