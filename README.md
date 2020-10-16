@@ -32,16 +32,18 @@ In this game that symbolizes the escape from Cyberfield, you must get rid of the
 Hint:
 The more points you save, the more durable and faster you can have tools. Each vehicle you buy has different visuals and features.<br>
 https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2<br>
-https://play.google.com/store/apps/details?id=com.Arutan.FotoRulet<br>
-VIDEO : https://www.youtube.com/watch?v=HIw-k-ci2YI<br>
 _______________________________________________________________________________________________________________<br>
 TUR<br>
 _______________________________________________________________________________________________________________<br>
 Mobil uzay savaş oyunu <br>
-https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2
 
 <img src="https://lh3.googleusercontent.com/eNR0GPvISykOKfgK3tgz37Hhrxlf1-VFyV6u53goJSVbcZ039FhfhkiRReWTM5wUbjs=s180-rw" alt="Root Finder"  height=200px; width=200px;>
-<br>
+<a href="https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2&hl"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png
+" alt="Cyberfield2"  height=200px; width=200px;>
+</a>
+
+
+
 <h2>MoneyBuster Replika</h2>
 ENG<br>
 _______________________________________________________________________________________________________________<br>
