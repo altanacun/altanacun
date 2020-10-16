@@ -35,10 +35,13 @@ https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2<br>
 _______________________________________________________________________________________________________________<br>
 TUR<br>
 _______________________________________________________________________________________________________________<br>
-Mobil uzay savaş oyunu <br>
+Mobil uzay savaş oyunu <br>Serinin ikinci oyunu "Cyberfield 2", önümüzdeki serinin ilk serisinin devamı.
+Cyberfield'den kaçmayı simgeleyen bu oyunda peşinizden gelen düşmanlardan kurtulmalısınız.
+İpucu:
+Ne kadar çok puan kazanırsanız, daha dayanıklı ve daha hızlı araçlara sahip olabilirsiniz. Satın aldığınız her aracın farklı görselleri ve özellikleri vardır.<br>
 
 <img src="https://lh3.googleusercontent.com/eNR0GPvISykOKfgK3tgz37Hhrxlf1-VFyV6u53goJSVbcZ039FhfhkiRReWTM5wUbjs=s180-rw" alt="Root Finder"  height=200px; width=200px;>
-<a href="https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2&hl"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Cyberfield2"  height=200px; width=200px;>
+<a href="https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2&hl"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Cyberfield2"  height=80px; width=150px;>
 </a>
 
 
