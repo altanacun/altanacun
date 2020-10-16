@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Altan</h1>
 <h3 align="center">Istanbul Aydin University Computer Engineering Student</h3>
 <h4 align="center">Busy with making Unity projects and studying computer engineering. I'm looking for any project to colloborate.</h4>
-- 📫 Contact me: **acunaltan@gmail.com**
+- 📫 Contact me: acunaltan@gmail.com
 
 <p align="left">
 <h3 align="left">Other Accounts:</h3>
