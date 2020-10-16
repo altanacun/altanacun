@@ -41,7 +41,7 @@ Cyberfield'den kaçmayı simgeleyen bu oyunda peşinizden gelen düşmanlardan k
 Ne kadar çok puan kazanırsanız, daha dayanıklı ve daha hızlı araçlara sahip olabilirsiniz. Satın aldığınız her aracın farklı görselleri ve özellikleri vardır.<br>
 <br>
 <img src="https://lh3.googleusercontent.com/eNR0GPvISykOKfgK3tgz37Hhrxlf1-VFyV6u53goJSVbcZ039FhfhkiRReWTM5wUbjs=s180-rw" alt="Cyberfield2"  height=200px; width=200px;>
-<a href="https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2&hl"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="Cyberfield2"  height=80px; width=200px;>
+<a href="https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2&hl"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="Cyberfield2"  height=60px; width=200px;>
 </a>
 
 
