@@ -14,5 +14,5 @@
 
 <h1>MY COMPLETED PROJECTS</h1>
 
-<a href="https://www.youtube.com/watch?v=HIw-k-ci2YI"><img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/fotorulett.png"></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
+<a href="https://www.youtube.com/watch?v=HIw-k-ci2YI"><img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/fotorulett.png"></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 <a href="https://play.google.com/store/apps/details?id=com.Arutan.FotoRulet"><img  align ="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1280px-Google_Play_Store_badge_EN.svg.png" width=350px; height=120px;></a>
