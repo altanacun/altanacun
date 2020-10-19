@@ -16,7 +16,7 @@
 <h2>INFINITE PARKER</h2>
 _______________________________________________________________________________________________________________<br>
 Mobile car parking game including 30 levels and difficulties.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9IP0_IG0Q7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 <br>
 _______________________________________________________________________________________________________________<br>
 <br>
