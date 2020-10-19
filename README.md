@@ -14,4 +14,4 @@
 
 <h1>MY COMPLETED PROJECTS</h1>
 
-<a href="https://www.youtube.com/watch?v=HIw-k-ci2YI"><img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/fotorulet.png"></a>
+<a href="https://www.youtube.com/watch?v=HIw-k-ci2YI"><img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/fotorulett.png"></a>
