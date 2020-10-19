@@ -15,8 +15,8 @@
 <h1>MY COMPLETED PROJECTS</h1>
 <h2>INFINITE PARKER</h2>
 _______________________________________________________________________________________________________________<br>
-Mobile car parking game including 30 levels and difficulties.
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+Mobile car parking game including 30 levels and difficulties.<br>
+VIDEO: https://youtu.be/9IP0_IG0Q7E  
 <br>
 _______________________________________________________________________________________________________________<br>
 <br>
@@ -29,6 +29,7 @@ In this game that symbolizes the escape from Cyberfield, you must get rid of the
 Hint:
 The more points you save, the more durable and faster you can have tools. Each vehicle you buy has different visuals and features.<br>
 https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2<br>
+VIDEO: https://youtu.be/kcXFKXlUjKE<br>
 _______________________________________________________________________________________________________________<br>
 <img src="https://lh3.googleusercontent.com/eNR0GPvISykOKfgK3tgz37Hhrxlf1-VFyV6u53goJSVbcZ039FhfhkiRReWTM5wUbjs=s180-rw" alt="Cyberfield2"  height=200px; width=200px;>
 <a href="https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2&hl"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/1200px-Google_Play_Store_badge_EN.svg.png" alt="Cyberfield2"  height=60px; width=200px;>
@@ -40,6 +41,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________<br>
 100% Replica of Money Buster game in Google Play Store and Apple App Store. 
 https://play.google.com/store/apps/details?id=com.cg.moneybuster<br>
+VIDEO: https://youtu.be/pedK7421ekc<br>
 _______________________________________________________________________________________________________________<br>
 
 <img src="https://avatanplus.com/files/resources/original/578dde5104672156022c6c7a.png" alt="Root Finder"  height=200px; width=200px;><br>
