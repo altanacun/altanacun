@@ -35,4 +35,6 @@
 <br>
 
 
+<br>
+<h1><a href="https://github.com/altanacun?tab=projects&q=is:closed">CHECK OUT ALL MY PROJECTS</a></h1>
 
