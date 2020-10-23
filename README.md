@@ -37,5 +37,5 @@
 
 
 <br>
-<p align="center" syyle="font-szie=5000px""><a href="https://github.com/altanacun?tab=projects&q=is:closed">CHECK OUT ALL MY PROJECTS</a></p>
+<div align="center" syyle="font-szie=5000px""><a href="https://github.com/altanacun?tab=projects&q=is:closed">CHECK OUT ALL MY PROJECTS</a></div>
 
