@@ -6,7 +6,6 @@
 <p align="left">
 <h3 align="left">Other Accounts:</h3>
 <a href="https://linkedin.com/in/altanacun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="altanacun" height="30" width="40" /></a>
-<h3 align="left">Other Accounts:</h3>
 <a href="http://shopier.com/arutan" target="blank"><img align="center" src="https://img7.apk.tools/img/sZimhwe9tZOviR-uIdUFNWqTPvQZ1WjPWUl2WWQQwlgLoGEBhy-3gFJzmI2ds_pSesk=s300" alt="altanacun" height="30" width="40" /></a>
 </p>
 
