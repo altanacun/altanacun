@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Altan</h1>
 <h3 align="center">Istanbul Aydin University Computer Engineering Student</h3>
-<h4 align="center">Busy with making Unity projects and studying computer engineering. I'm looking for any project to colloborate.</h4>
+<h4 align="center">Studying computer engineering, learning every day. I'm looking for any project to colloborate.</h4>
 <h4 align="center"> 📫 Contact me: acunaltan@gmail.com </h4>
 
 <p align="left">
