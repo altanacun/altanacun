@@ -5,7 +5,7 @@
 
 <p align="left">
 <h3 align="left">Other Accounts:</h3>
-<a href="https://linkedin.com/in/altanacun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="altanacun" height="30" width="40" /></a>
+<a href="https://tr.linkedin.com/in/altan-acun-a298b7170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="altanacun" height="30" width="40" /></a>
 <a href="http://shopier.com/arutan" target="blank"><img align="center" src="https://www.shopier.com/ShowProductNew/images/favicons/apple-touch-icon.png" alt="altanacun" height="30" width="30" /></a>
 </p>
 
