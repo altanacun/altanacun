@@ -96,8 +96,34 @@
 <a href="https://github.com/altanacun/MoneyBuster-Replika/raw/main/MoneyBustersReplika.apk" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://camo.githubusercontent.com/7e64f16c92c0a1298296809335690f8ba7d3886092b959483f738c1b7a2b4fce/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f64392f35332f30316439353332396134313966353237353166383735646166396430663161612e706e67" width=350px; height=120px;></a>
 </li>
 
+<br>
 
 
+<h1 align="center"> <i>PROTEGRA WEBSITE- 1</i></h1><img align="center">
+<li text-align="center" align="center">
+<a text-align="center" display:block href="https://www.youtube.com/watch?list=TLGG6eRnAipFGmAwODA0MjAyMQ&v=GdIlTsuMr7I"><img align="left"><img height=300px width=300px text-align="center" display:block align="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/protegra1.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
+</li><li text-align="center" align="center">
+<a href="https://www.youtube.com/watch?list=TLGG6eRnAipFGmAwODA0MjAyMQ&v=GdIlTsuMr7I" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
+</li>
+
+<br>
+
+
+<h1 align="center"> <i>ONLINE TEACHER WEBSITE- 2</i></h1><img align="center">
+<li text-align="center" align="center">
+<a text-align="center" display:block href="https://www.youtube.com/watch?list=TLGGSIqu_Jagu1IwODA0MjAyMQ&v=RVShk1MaMDU"><img align="left"><img height=300px width=300px text-align="center" display:block align="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/OZELDERS2.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
+</li><li text-align="center" align="center">
+<a href="https://www.youtube.com/watch?list=TLGGSIqu_Jagu1IwODA0MjAyMQ&v=RVShk1MaMDU" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
+</li>
+
+<br>
+
+<h1 align="center"> <i>MEETAGAMES WEBSITE</i></h1><img align="center">
+<li text-align="center" align="center">
+<a text-align="center" display:block href="https://www.youtube.com/watch?list=TLGGp9YSUc1IuncwODA0MjAyMQ&v=faerLD0ELlc"><img align="left"><img height=300px width=300px text-align="center" display:block align="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/META.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
+</li><li text-align="center" align="center">
+<a href="https://www.youtube.com/watch?list=TLGGp9YSUc1IuncwODA0MjAyMQ&v=faerLD0ELlc" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
+</li>
 
 <br>
 <a href="https://github.com/altanacun?tab=projects&q=is:closed"><img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/checkoutttt.png"></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
