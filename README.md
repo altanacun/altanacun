@@ -138,7 +138,7 @@
 
 <h1 align="center"> <i>LightSwitch - Computer Booster</i></h1><img align="center">
 <li text-align="center" align="center">
-<a text-align="center" display:block href="https://youtu.be/-9U0L2g5pVk"><img align="left"><img text-align="center" display:block align="center" img height=100px width=10px src="https://raw.githubusercontent.com/altanacun/LightSwitch/master/switch.png"></a>⠀⠀⠀⠀⠀⠀⠀           
+<a text-align="center" display:block href="https://youtu.be/-9U0L2g5pVk"><img align="left"><img text-align="center" display:block align="center" img height=100px width=100px src="https://raw.githubusercontent.com/altanacun/LightSwitch/master/switch.png"></a>⠀⠀⠀⠀⠀⠀⠀           
   </li>
   <li text-align="center" align="center">
 <a href="hhttps://youtu.be/-9U0L2g5pVk" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
