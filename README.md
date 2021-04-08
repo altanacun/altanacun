@@ -52,7 +52,7 @@
 <br>
 
 <h1 align="center"> <i>BE KA DAR DOKUMA WEBSITE </i></h1><img align="center">
-<li text-align="center" margin:auto width:100% align="center">
+<li text-align="center" margin:auto width:80% align="center">
 <a text-align="center" display:block href="https://www.youtube.com/watch?v=xXeCGLEbklY"><img align="center"><img width:150% text-align="center" display:block align="center" src="https://camo.githubusercontent.com/5ff3398aa1afef59f66ba5baec1f0e231d981ca814d6a9d45ee63a62f4d739a2/68747470733a2f2f692e696d6775722e636f6d2f645361667438642e706e67"></a>⠀⠀⠀⠀⠀⠀⠀                             
 </li><li text-align="center" align="center">
 <a href="https://www.youtube.com/watch?v=xXeCGLEbklY" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
