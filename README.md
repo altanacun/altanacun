@@ -49,6 +49,12 @@
 <a href="https://youtu.be/l6Q8y-8YIyM"><img src="https://raw.githubusercontent.com/altanacun/Transearly/main/transearlybanner.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
 <a href="https://github.com/altanacun/Transearly/raw/main/Transearly.exe" text-align ="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/download.png" width=350px; height=120px;></a>
 
+<br>
+
+<h1> BE KA DAR DOKUMA WEBSITE </h1>
+
+
+
 
 <br>
 <a href="https://github.com/altanacun?tab=projects&q=is:closed"><img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/checkoutttt.png"></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
