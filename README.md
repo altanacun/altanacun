@@ -73,5 +73,32 @@
 
 
 <br>
+
+<h1 align="center"> <i>ONLINE TEACHER WEBSITE - 1</i></h1><img align="center">
+<li text-align="center" align="center">
+<a text-align="center" display:block href="https://www.youtube.com/watch?list=TLGG548wZnbPyEwwODA0MjAyMQ&v=dcjrHASG3KM"><img align="left"><img height=300px width=300px text-align="center" display:block align="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/OZELDERS1.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
+</li><li text-align="center" align="center">
+<a href="https://www.youtube.com/watch?list=TLGG548wZnbPyEwwODA0MjAyMQ&v=dcjrHASG3KM" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
+</li>
+
+
+
+
+<br>
+
+<h1 align="center"> <i>MoneyBuster Replika</i></h1><img align="center">
+<li text-align="center" align="center">
+<a text-align="center" display:block href="https://youtu.be/pedK7421ekc"><img align="left"><img height=300px width=300px text-align="center" display:block align="center" src="https://camo.githubusercontent.com/ae20712868a79ea7066e1cde07209627d8531175258eddb4eb2a84d9ad8e6b73/68747470733a2f2f61766174616e706c75732e636f6d2f66696c65732f7265736f75726365732f6f726967696e616c2f3537386464653531303436373231353630323263366337612e706e67"></a>⠀⠀⠀⠀⠀⠀⠀                             
+</li><li text-align="center" align="center">
+<a href="https://youtu.be/pedK7421ekc" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
+</li>
+</li><li text-align="center" align="center">
+<a href="https://github.com/altanacun/MoneyBuster-Replika/raw/main/MoneyBustersReplika.apk" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://camo.githubusercontent.com/7e64f16c92c0a1298296809335690f8ba7d3886092b959483f738c1b7a2b4fce/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30312f64392f35332f30316439353332396134313966353237353166383735646166396430663161612e706e67" width=350px; height=120px;></a>
+</li>
+
+
+
+
+<br>
 <a href="https://github.com/altanacun?tab=projects&q=is:closed"><img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/checkoutttt.png"></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 
