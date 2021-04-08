@@ -120,7 +120,7 @@
 
 <h1 align="center"> <i>MEETAGAMES WEBSITE</i></h1><img align="center">
 <li text-align="center" align="center">
-<a text-align="center" display:block href="https://www.youtube.com/watch?list=TLGGp9YSUc1IuncwODA0MjAyMQ&v=faerLD0ELlc"><img align="left"><img height=300px width=300px text-align="center" display:block align="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/META.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
+<a text-align="center" display:block href="https://www.youtube.com/watch?list=TLGGp9YSUc1IuncwODA0MjAyMQ&v=faerLD0ELlc"><img align="left"><img height=300px width=400px text-align="center" display:block align="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/META.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
 </li><li text-align="center" align="center">
 <a href="https://www.youtube.com/watch?list=TLGGp9YSUc1IuncwODA0MjAyMQ&v=faerLD0ELlc" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
 </li>
