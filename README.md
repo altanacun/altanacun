@@ -51,7 +51,7 @@
 
 <br>
 
-<h1 align="center" font-size="70px"> BE KA DAR DOKUMA WEBSITE </h1>
+<h1 align="center" font-size="150px"> BE KA DAR DOKUMA WEBSITE </h1>
 
 
 
