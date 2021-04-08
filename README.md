@@ -46,8 +46,7 @@
 
 <br>
 
-<a href="https://youtu.be/-ROJdm-skGI"><img src="https://raw.githubusercontent.com/altanacun/Transearly/main/transearly.png"></a>⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀
-<a href="https://youtu.be/-ROJdm-skGI"><img src="https://www.gbf.org.au/images/social/youtube-watch.png"></a>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
+<a href="https://youtu.be/-ROJdm-skGI"><img src="https://raw.githubusercontent.com/altanacun/Transearly/main/transearlybanner.png"></a>⠀⠀⠀⠀⠀⠀⠀ 
 <a href="https://github.com/altanacun/Transearly/raw/main/Transearly.exe"><img  align ="center" src="https://uxwing.com/wp-content/themes/uxwing/download/04-file-folder-type/download-exe.png" width=120px; height=120px;></a>
 
 
