@@ -46,7 +46,8 @@
 
 <br>
 
-<a href="https://youtu.be/-ROJdm-skGI"><img src="https://raw.githubusercontent.com/altanacun/Transearly/main/transearlybanner.png"></a>⠀⠀⠀⠀⠀⠀⠀ 
+<a href="https://youtu.be/-ROJdm-skGI"><img src="https://raw.githubusercontent.com/altanacun/Transearly/main/transearlybanner.png"></a>⠀⠀⠀⠀⠀⠀
+⠀ 
 <a href="https://github.com/altanacun/Transearly/raw/main/Transearly.exe"><img  align ="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/download.png" width=350px; height=120px;></a>
 
 
