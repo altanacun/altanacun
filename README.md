@@ -138,7 +138,7 @@
 
 <h1 align="center"> <i>LightSwitch - Computer Booster</i></h1><img align="center">
 <li text-align="center" align="center">
-<a text-align="center" display:block href="https://youtu.be/-9U0L2g5pVk"><img align="left"><img text-align="center" display:block align="center" src="https://raw.githubusercontent.com/altanacun/LightSwitch/master/switch.png"></a>⠀⠀⠀⠀⠀⠀⠀           
+<a text-align="center" display:block href="https://youtu.be/-9U0L2g5pVk"><img align="left"><img text-align="center" display:block align="center" img height=300px width=200px src="https://raw.githubusercontent.com/altanacun/LightSwitch/master/switch.png"></a>⠀⠀⠀⠀⠀⠀⠀           
   </li>
   <li text-align="center" align="center">
 <a href="hhttps://youtu.be/-9U0L2g5pVk" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
@@ -151,7 +151,7 @@
 
 <h1 align="center"> <i>YouTube Downloader MP3/VIDEO</i></h1><img align="center">
 <li text-align="center" align="center">
-<a text-align="center" display:block href="https://raw.githubusercontent.com/altanacun/YouTubeDownloader/master/YouTube%20Downloader%20icon.png"><img align="left"><img text-align="center" display:block align="center" src="https://raw.githubusercontent.com/altanacun/YouTubeDownloader/master/YouTube%20Downloader%20icon.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
+<a text-align="center" display:block href="https://raw.githubusercontent.com/altanacun/YouTubeDownloader/master/YouTube%20Downloader%20icon.png"><img align="left"><img text-align="center" img height=300px width=300px display:block align="center" src="https://raw.githubusercontent.com/altanacun/YouTubeDownloader/master/YouTube%20Downloader%20icon.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
 </li><li text-align="center" align="center">
 <a href="https://github.com/altanacun/YouTubeDownloader/raw/master/YouTube%20Downloader.rar" text-align ="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/download.png" width=350px; height=120px;></a>
 </li>
