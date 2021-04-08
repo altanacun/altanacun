@@ -153,7 +153,7 @@
 <br>
 <h1 align="center"> <i>MailBoomer</i></h1><img align="center">
 <li text-align="center" align="center">
-<a text-align="center" display:block href="http://protegra.net/mailboomer/"><img align="left"><img text-align="center" display:block align="center" img height=100px width=100px src="https://camo.githubusercontent.com/ac6b2eb2f8ce065ea4e93ae6e5be97328f10e7d5afb1206b03e41c9209bae186/687474703a2f2f70726f74656772612e6e65742f77702d636f6e74656e742f75706c6f6164732f323031392f30372f4d61696c426f6f6d65722e69636f"></a>⠀⠀⠀⠀⠀⠀⠀           
+<a text-align="center" display:block href="http://protegra.net/mailboomer/"><img align="left"><img text-align="center" display:block align="center" img height=300px width=300px src="https://camo.githubusercontent.com/ac6b2eb2f8ce065ea4e93ae6e5be97328f10e7d5afb1206b03e41c9209bae186/687474703a2f2f70726f74656772612e6e65742f77702d636f6e74656e742f75706c6f6164732f323031392f30372f4d61696c426f6f6d65722e69636f"></a>⠀⠀⠀⠀⠀⠀⠀           
   </li>
   <li text-align="center" align="center">
 <a href="https://www.youtube.com/watch?v=lykGPruAHCw" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
