@@ -46,8 +46,8 @@
 
 <br>
 
-<a href="https://youtu.be/-ROJdm-skGI"><img src="https://raw.githubusercontent.com/altanacun/Transearly/main/transearlybanner.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
-<a href="https://github.com/altanacun/Transearly/raw/main/Transearly.exe" align ="center"><img align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/download.png" width=350px; height=120px;></a>
+<a href="https://youtu.be/l6Q8y-8YIyM"><img src="https://raw.githubusercontent.com/altanacun/Transearly/main/transearlybanner.png"></a>⠀⠀⠀⠀⠀⠀⠀                             
+<a href="https://github.com/altanacun/Transearly/raw/main/Transearly.exe" text-align ="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Transearly/main/download.png" width=350px; height=120px;></a>
 
 
 <br>
