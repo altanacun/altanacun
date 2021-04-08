@@ -52,7 +52,7 @@
 <br>
 
 <h1 align="center"> <i>BE KA DAR DOKUMA WEBSITE </i></h1><img align="center">
-<li text-align="center" align="right">
+<li text-align="center" align="center">
 <a text-align="center" display:block href="https://www.youtube.com/watch?v=xXeCGLEbklY"><img align="center"><img width:150% text-align="center" display:block align="center" src="https://camo.githubusercontent.com/5ff3398aa1afef59f66ba5baec1f0e231d981ca814d6a9d45ee63a62f4d739a2/68747470733a2f2f692e696d6775722e636f6d2f645361667438642e706e67"></a>⠀⠀⠀⠀⠀⠀⠀                             
 </li><li text-align="center" align="center">
 <a href="https://www.youtube.com/watch?v=xXeCGLEbklY" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
@@ -61,7 +61,7 @@
   
 <br>
 <h1 align="center"> <i>BARBUT GAME </i></h1><img align="center">
-<li text-align="center" align="right">
+<li text-align="center" align="center">
 <a text-align="center" display:block href="https://www.youtube.com/watch?v=qoK3ScADyF4&feature=youtu.be"><img align="left"><img height=300px width=300px text-align="center" display:block align="center" src="https://camo.githubusercontent.com/8bf06a4753aa5aad71f1cbfdcac1ad4e24749dec3896717c6cc6d1e628fd3ea8/68747470733a2f2f696d672d73312e6f6e6564696f2e636f6d2f69642d3536333931323830343566323638386436626235353531322f7265762d302f7261772f732d373536346362346235316139376235643163323931626361363631326537636430653861333932332e6a7067"></a>⠀⠀⠀⠀⠀⠀⠀                             
 </li><li text-align="center" align="center">
 <a href="https://www.youtube.com/watch?v=qoK3ScADyF4&feature=youtu.be" text-align ="center" img-align="center"><img align="center"><img align ="center" src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/yo.png" width=350px; height=120px;></a>
