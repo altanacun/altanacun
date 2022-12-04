@@ -67,5 +67,19 @@
 <a href="https://play.google.com/store/apps/details?id=com.GameTheory.FidgetPuzzle">
               <img align="center" src="https://play-lh.googleusercontent.com/-x3yMOo5XzVd47fr_1ooingF3Jp7eYhyZRIr-haCsOvtYYg7n8PTCKF0rIzL8WydtQ=w240-h480-rw" width="200" height="200" /> <br>
            <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h1 align="center">
+- GYM MASTER 3D
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.GYMMaster3D">
+              <img align="center" src="https://play-lh.googleusercontent.com/f7nZQgOaK2YXKnb9VcUYB4i-Y1_Oa_9JcT4qXVbaCrL-3kN7xg9yxaw_3e2NLULDpbA=w240-h480-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h1 align="center">
+- MODEL SHIP 3D
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.ModelShip">
+              <img align="center" src="https://play-lh.googleusercontent.com/Vg6if3j8nMe8nD861ZqGHagFUY0Zh0bUwAUMPLK1ijtSGqKKCkwxmKmD0B-byWmDOANN=w240-h480-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
 
 
