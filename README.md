@@ -21,5 +21,5 @@
 
 <h1 align="center">
 - Weapon Sort
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.WeaponSort&hl=en&gl=US"><img src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png"/>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.WeaponSort&hl=en&gl=US"><img src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width:"85" height:"280" />
 
