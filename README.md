@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Altan</h1>
+<h1 align="
+           
+           ">Hi 👋, I'm Altan</h1>
 <h3 align="center">Istanbul Aydin University Computer Engineering</h3>
 <h4 align="center">Computer engineer, Unity Developer, learning every day. I'm looking for any project to colloborate.</h4>
 <h4 align="center"> 📫 Contact me: acunaltan@gmail.com </h4>
@@ -21,5 +23,5 @@
 
 <h1 align="center">
 - Weapon Sort
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.WeaponSort&hl=en&gl=US"><img src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="280" height="85" />
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.WeaponSort&hl=en&gl=US"><img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
 
