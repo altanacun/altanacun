@@ -1,6 +1,4 @@
-<h1 align="
-           
-           ">Hi 👋, I'm Altan</h1>
+<h1 align="center">Hi 👋, I'm Altan</h1>
 <h3 align="center">Istanbul Aydin University Computer Engineering</h3>
 <h4 align="center">Computer engineer, Unity Developer, learning every day. I'm looking for any project to colloborate.</h4>
 <h4 align="center"> 📫 Contact me: acunaltan@gmail.com </h4>
@@ -20,8 +18,54 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/SPMEOE.png"></h1> <!-- SOME OF MY PROJECTS -->
 
 <br>
-
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
-- Weapon Sort
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.WeaponSort&hl=en&gl=US"><img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+- WEAPON SORT
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.WeaponSort&hl=en&gl=US">
+           <img align="center" src="https://play-lh.googleusercontent.com/1-GW7RxsHjnel7TBTT4IhJd6fD-nbqK26UG4ifub_-74vLFzFy5xvVs60SP7KIaBnQo=w240-h480-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h1 align="center">
+- BBQ Master
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.BBQMaster">
+              <img align="center" src="https://play-lh.googleusercontent.com/WL_6-ot86O2M2V9crJ7w-UgsGQtnq-swuwZTlYfrKGPhroNiEwE08QN54XnZkf5L5lPW=s48-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h1 align="center">
+- BUY AND UNPACK
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.BuyAndUnpack&hl=en&gl=US">
+              <img align="center" src="https://play-lh.googleusercontent.com/ZVVDYYR3Bf9Giybkap1Iw5QjDjVmZSDjHUelFP_i3D7qLlD1lcstonJepOcndlKpxUw=w240-h480-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->       
+<h1 align="center">
+- LAZY WORK
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.LazyWork">
+              <img align="center" src="https://play-lh.googleusercontent.com/M4LgnPbYh3BSeXbMyKoy0CHmG8payIFPbjiulWp7WiqEOcthImmai50ZjGdeGAndwL4=w240-h480-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h1 align="center">
+- MR TALENT
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.MrTalent">
+              <img align="center" src="https://play-lh.googleusercontent.com/pPbb2UeNfzrpwhsjkmeCHiyYs1G-aRPh4QKQ2kpYTJYcEMIhEBSf0Pe2WKGKzlLwoGo=w240-h480-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h1 align="center">
+- SAVE EVERYONE
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.SaveEveryone">
+              <img align="center" src="https://play-lh.googleusercontent.com/3R2aTJVfya8rDo_kH9MSgy0GjAislBcPclpgbOektPIl-oC90hX7MUMMihA6-J6J2A=w2560-h1440-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h1 align="center">
+- FIDGET PUZZLE
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.FidgetPuzzle">
+              <img align="center" src="https://play-lh.googleusercontent.com/-x3yMOo5XzVd47fr_1ooingF3Jp7eYhyZRIr-haCsOvtYYg7n8PTCKF0rIzL8WydtQ=w240-h480-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+
 
