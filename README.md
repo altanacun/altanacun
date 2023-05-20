@@ -89,13 +89,6 @@
            <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
-- CYBERFIELD 2
-           <br>
-<a href="https://play.google.com/store/apps/details?id=com.MeetaGames.CyberField2">
-              <img align="center" src="https://play-lh.googleusercontent.com/eNR0GPvISykOKfgK3tgz37Hhrxlf1-VFyV6u53goJSVbcZ039FhfhkiRReWTM5wUbjs=s48-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h1 align="center">
 - INFINITE RACER
            <br>
 <a href="https://play.google.com/store/apps/details?id=com.MeeTaGames.EndlessCarDriving">
