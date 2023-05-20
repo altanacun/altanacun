@@ -76,13 +76,6 @@
            <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
-- SAVE EVERYONE
-           <br>
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.SaveEveryone">
-              <img align="center" src="https://play-lh.googleusercontent.com/3R2aTJVfya8rDo_kH9MSgy0GjAislBcPclpgbOektPIl-oC90hX7MUMMihA6-J6J2A=w2560-h1440-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h1 align="center">
 - FIDGET PUZZLE
            <br>
 <a href="https://play.google.com/store/apps/details?id=com.GameTheory.FidgetPuzzle">
@@ -101,6 +94,13 @@
            <br>
 <a href="https://play.google.com/store/apps/details?id=com.GameTheory.ModelShip">
               <img align="center" src="https://play-lh.googleusercontent.com/Vg6if3j8nMe8nD861ZqGHagFUY0Zh0bUwAUMPLK1ijtSGqKKCkwxmKmD0B-byWmDOANN=w240-h480-rw" width="200" height="200" /> <br>
+           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<h1 align="center">
+- SAVE EVERYONE
+           <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.SaveEveryone">
+              <img align="center" src="https://play-lh.googleusercontent.com/3R2aTJVfya8rDo_kH9MSgy0GjAislBcPclpgbOektPIl-oC90hX7MUMMihA6-J6J2A=w2560-h1440-rw" width="200" height="200" /> <br>
            <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- OTHER PROJECTS -->
