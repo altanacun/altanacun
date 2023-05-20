@@ -114,7 +114,7 @@
 <!-- OTHER PROJECTS -->
 <h1 align="center">
 <a href="https://github.com/altanacun?tab=projects&type=classic&query=is%3Aclosed">
-<img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/SPMEOE.png">
+<img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/SPMEOE.pn](https://raw.githubusercontent.com/altanacun/Space-Cat/main/otherProjects.png">
 </a>
 </h1>
 
