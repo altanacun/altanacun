@@ -18,9 +18,8 @@
 <br>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
+<a href="https://apps.apple.com/tr/developer/game-theory-bilisim-yazilim-ve-pazarlama-anonim-sirketi/id1450163433"> 
 - GAME THEORY GAMES IOS PAGE -
-           <br>
-<a href="https://apps.apple.com/tr/developer/game-theory-bilisim-yazilim-ve-pazarlama-anonim-sirketi/id1450163433">
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br>
