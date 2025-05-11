@@ -84,7 +84,7 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- OTHER PROJECTS -->
 <h1 align="center">
-<a href="https://github.com/altanacun?tab=projects&type=classic&query=is%3Aclosed">
+<a href="https://github.com/altanacun?tab=repositories">
 <img src="https://raw.githubusercontent.com/altanacun/Space-Cat/main/otherProjects.png">
 </a>
 </h1>
