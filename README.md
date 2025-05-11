@@ -4,7 +4,7 @@
 
 <p align="center">
 <h3 align="center">LINKEDIN:</h3>
-<a href="https://tr.linkedin.com/in/altan-acun-a298b7170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="altanacun" height="30" width="40" /></a>
+<a href="https://tr.linkedin.com/in/altan-acun-a298b7170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://tr.linkedin.com/in/altan-acun-a298b7170" height="30" width="40" /></a>
 </p>
 
 
