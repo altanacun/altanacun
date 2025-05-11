@@ -69,10 +69,10 @@
            <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
-- INFINITE RACER
+- MY DELIVERY HERO
            <br>
-<a href="https://play.google.com/store/apps/details?id=com.MeeTaGames.EndlessCarDriving">
-              <img align="center" src="https://play-lh.googleusercontent.com/fHRorFQ_V5ngDYUpu5xoNbSxlGeDZKHeliRS2nuSOaR6znbM4-T7DADaQonieWcz4A=s48-rw" width="200" height="200" /> <br>
+<a href="https://play.google.com/store/apps/details?id=com.GameTheory.MyDeliveryHero">
+              <img align="center" src="https://play-lh.googleusercontent.com/yd5Q3AJSrT71F6E2EgkG1y-91Uhe2MbhKM7i7v9qg1Zh53_KT3hHSis6KOTHf7e-910=s96-rw" width="200" height="200" /> <br>
            <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
@@ -80,34 +80,6 @@
            <br>
 <a href="https://play.google.com/store/apps/details?id=com.GameTheory.MrTalent">
               <img align="center" src="https://play-lh.googleusercontent.com/pPbb2UeNfzrpwhsjkmeCHiyYs1G-aRPh4QKQ2kpYTJYcEMIhEBSf0Pe2WKGKzlLwoGo=w240-h480-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h1 align="center">
-- FIDGET PUZZLE
-           <br>
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.FidgetPuzzle">
-              <img align="center" src="https://play-lh.googleusercontent.com/-x3yMOo5XzVd47fr_1ooingF3Jp7eYhyZRIr-haCsOvtYYg7n8PTCKF0rIzL8WydtQ=w240-h480-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h1 align="center">
-- GYM MASTER 3D
-           <br>
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.GYMMaster3D">
-              <img align="center" src="https://play-lh.googleusercontent.com/f7nZQgOaK2YXKnb9VcUYB4i-Y1_Oa_9JcT4qXVbaCrL-3kN7xg9yxaw_3e2NLULDpbA=w240-h480-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h1 align="center">
-- MODEL SHIP 3D
-           <br>
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.ModelShip">
-              <img align="center" src="https://play-lh.googleusercontent.com/Vg6if3j8nMe8nD861ZqGHagFUY0Zh0bUwAUMPLK1ijtSGqKKCkwxmKmD0B-byWmDOANN=w240-h480-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
-<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<h1 align="center">
-- SAVE EVERYONE
-           <br>
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.SaveEveryone">
-              <img align="center" src="https://play-lh.googleusercontent.com/3R2aTJVfya8rDo_kH9MSgy0GjAislBcPclpgbOektPIl-oC90hX7MUMMihA6-J6J2A=w2560-h1440-rw" width="200" height="200" /> <br>
            <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!-- OTHER PROJECTS -->
