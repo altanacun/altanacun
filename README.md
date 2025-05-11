@@ -3,7 +3,7 @@
 <h4 align="left"> 📫 Contact me: acunaltan@gmail.com </h4>
 
 <p align="left">
-<h3 align="left">LINKEDIN:<a href="https://tr.linkedin.com/in/altan-acun-a298b7170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://tr.linkedin.com/in/altan-acun-a298b7170" height="30" width="40" /></a> </h3>
+<h3 align="left"><a href="https://tr.linkedin.com/in/altan-acun-a298b7170" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMjR7gx6W5-B-hglc98RYENcZeIrSg0t6aA&s" alt="https://tr.linkedin.com/in/altan-acun-a298b7170" height="40" width="250" /></a> </h3>
 </p>
 
 
