@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Altan</h1>
 <h4 align="center">Software engineer, Unity Developer, learning every day. I'm looking for any project to colloborate.</h4>
-<h4 align="center"> 📫 Contact me: acunaltan@gmail.com </h4>
+<h4 align="left"> 📫 Contact me: acunaltan@gmail.com </h4>
 
 <p align="left">
 <h3 align="left">LINKEDIN:</h3>
