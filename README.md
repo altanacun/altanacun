@@ -2,8 +2,8 @@
 <h4 align="center">Software engineer, Unity Developer, learning every day. I'm looking for any project to colloborate.</h4>
 <h4 align="center"> 📫 Contact me: acunaltan@gmail.com </h4>
 
-<p align="center">
-<h3 align="center">LINKEDIN:</h3>
+<p align="left">
+<h3 align="left">LINKEDIN:</h3>
 <a href="https://tr.linkedin.com/in/altan-acun-a298b7170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://tr.linkedin.com/in/altan-acun-a298b7170" height="30" width="40" /></a>
 </p>
 
