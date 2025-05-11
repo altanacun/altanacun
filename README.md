@@ -18,32 +18,33 @@
 <br>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
-<a href="https://apps.apple.com/tr/developer/game-theory-bilisim-yazilim-ve-pazarlama-anonim-sirketi/id1450163433"> 
-- GAME THEORY GAMES IOS PAGE -
 
+- GAME THEORY GAMES IOS GAMES 
+<br>
+
+<a href="https://apps.apple.com/tr/developer/game-theory-bilisim-yazilim-ve-pazarlama-anonim-sirketi/id1450163433">
+              <img align="center" src="https://media.licdn.com/dms/image/v2/C4E0BAQFEhOM-vBkKsQ/company-logo_200_200/company-logo_200_200/0/1630642324858/game_theory_games_logo?e=2147483647&v=beta&t=Fw5s6SzUXiqFWGFydmY8JMW61r1NMMaGSnZCig0Nsc4" width="200" height="200" /> 
+</h1>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
-- WEAPON SORT
+- CITY FIGHTER VS STREET GANG
            <br>
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.WeaponSort&hl=en&gl=US">
-           <img align="center" src="https://play-lh.googleusercontent.com/1-GW7RxsHjnel7TBTT4IhJd6fD-nbqK26UG4ifub_-74vLFzFy5xvVs60SP7KIaBnQo=w240-h480-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<a href="https://apps.apple.com/us/app/city-fighter-vs-street-gang/id1380448783">
+           <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/92/be/a292be1a-0228-c6c6-8001-c6af258be3fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/460x0w.webp" width="200" height="200" /> <br>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
-- BBQ Master
+- LEGENDARYA - SURVIVAL SHOOTER
            <br>
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.BBQMaster">
-              <img align="center" src="https://play-lh.googleusercontent.com/WL_6-ot86O2M2V9crJ7w-UgsGQtnq-swuwZTlYfrKGPhroNiEwE08QN54XnZkf5L5lPW=s48-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<a href="https://apps.apple.com/us/app/legendarya-survival-shooter/id1511924085">
+           <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d7/34/03/d73403ab-cd23-4957-3bbc-fd019e46652e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="200" height="200" /> <br>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <h1 align="center">
-- BUY AND UNPACK
+- ZOMBIE WARS : SHOOTING GAME
            <br>
-<a href="https://play.google.com/store/apps/details?id=com.GameTheory.BuyAndUnpack&hl=en&gl=US">
-              <img align="center" src="https://play-lh.googleusercontent.com/ZVVDYYR3Bf9Giybkap1Iw5QjDjVmZSDjHUelFP_i3D7qLlD1lcstonJepOcndlKpxUw=w240-h480-rw" width="200" height="200" /> <br>
-           <img align="center" src="https://i.pinimg.com/originals/01/d9/53/01d95329a419f52751f875daf9d0f1aa.png" width="260" height="85" />
+<a href="https://apps.apple.com/us/app/zombie-wars-shooting-game/id6477569046">
+           <img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/e0/a7/1ae0a705-6cde-ae44-28e3-6a0cc0a7a16e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="200" height="200" /> <br>
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->       
 <h1 align="center">
 - LAZY WORK
